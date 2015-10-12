@@ -19,7 +19,6 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20151009065821.1"><vh>@edit README.md</vh></v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
