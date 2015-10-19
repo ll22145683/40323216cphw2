@@ -29,7 +29,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
@@ -273,14 +273,13 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -1632,12 +1631,11 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
-				
-</t>
+    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
+    &lt;p&gt;這學期一開始有點混亂,不太能理解老師要什麼,希望可以講慢一點,然後說一下到底要什麼 &lt;/p&gt;
+    &lt;p&gt;分數  : 60 分&lt;/p&gt;
+
+&lt;/section&gt;</t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1665,17 +1663,10 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;作業一&lt;/h1&gt;
+    &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	
-</t>
-<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
