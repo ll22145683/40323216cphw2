@@ -26,6 +26,7 @@
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20151019154357.1"><vh>@edit 2015cphww4.md</vh></v>
 </v>
 </v>
 </v>
@@ -280,10 +281,25 @@
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151019154505.1"><vh>心得</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151019154425.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="leo.20151019154425.2"><vh>檔案說明</vh></v>
+<v t="leo.20151019154425.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151019154425.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151019154425.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151019154425.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151019154425.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151019154425.8"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151019154425.9"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1632,7 +1648,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;這學期一開始有點混亂,不太能理解老師要什麼,希望可以講慢一點,然後說一下到底要什麼 &lt;/p&gt;
     &lt;p&gt;分數  : 60 分&lt;/p&gt;
 
 &lt;/section&gt;</t>
@@ -1663,7 +1678,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業一&lt;/h1&gt;
+    &lt;h2&gt;作業一&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	
@@ -1800,5 +1815,77 @@ jupyter notebook
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20151019154425.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151019154425.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151019154425.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151019154425.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151019154425.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151019154425.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151019154425.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;作業二&lt;/h1&gt;
+    &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151019154425.8">&lt;section&gt;
+    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
+    &lt;p&gt;老師教的繪圖軟體不錯用 很好上手又開得很快 功能也很齊全 算是很好的繪圖軟體 &lt;/p&gt;
+    &lt;p&gt;分數  : 80 分&lt;/p&gt;
+
+&lt;/section&gt;
+		</t>
+<t tx="leo.20151019154425.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151019154505.1">
+&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;這學期一開始有點混亂,不太能理解老師要什麼,希望可以講慢一點,然後說一下到底要什麼&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
 </tnodes>
 </leo_file>
