@@ -116,4 +116,9 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="presentation/simplest2.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/01.png" width="500" alt="作業圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;作業圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/01.png" width="500" alt="作業圖"&gt;&lt;/img&gt;
+&lt;img src="images/02.png" width="500" alt="作業圖"&gt;&lt;/img&gt;
+&lt;img src="images/03.png" width="500" alt="作業圖"&gt;&lt;/img&gt;
+&lt;img src="images/04.png" width="500" alt="作業圖"&gt;&lt;/img&gt;
+&lt;img src="images/05.png" width="500" alt="作業圖"&gt;&lt;/img&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
