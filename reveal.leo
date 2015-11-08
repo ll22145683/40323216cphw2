@@ -19,19 +19,20 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="leo.20151019154357.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="leo.20151025123242.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151108133242.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151108133249.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151108133257.1"><vh>@edit 2015cphww8.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
@@ -275,46 +276,63 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
-<v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
-<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151019154505.1"><vh>心得</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="leo.20151108133333.1"><vh>@clean simplest.html</vh>
+<v t="leo.20151108133333.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108133333.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108133333.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108133333.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108133333.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108133333.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108133333.8"><vh>心得</vh></v>
+<v t="leo.20151108133333.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
-<v t="amd.20150915211351.15"><vh>script</vh></v>
-</v>
-</v>
-</v>
-<v t="leo.20151019154425.1" a="E"><vh>@clean simplest4.html</vh>
-<v t="leo.20151019154425.2"><vh>檔案說明</vh></v>
-<v t="leo.20151019154425.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151019154425.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151019154425.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151019154425.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151019154425.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151019154425.8"><vh>心得與自評</vh></v>
-</v>
-</v>
-<v t="leo.20151019154425.9"><vh>script</vh></v>
+<v t="leo.20151108133333.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="leo.20151025123447.1" a="E"><vh>@clean simplest5.html</vh>
-<v t="leo.20151025123447.2"><vh>檔案說明</vh></v>
-<v t="leo.20151025123447.3" a="E"><vh>html 標註</vh>
-<v t="leo.20151025123447.4" a="E"><vh>body 標註</vh>
-<v t="leo.20151025123447.5" a="E"><vh>div class="reveal"</vh>
-<v t="leo.20151025123447.6" a="E"><vh>div class="slides"</vh>
-<v t="leo.20151025123447.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151025123447.8"><vh>心得與自評</vh></v>
+<v t="leo.20151108133340.1"><vh>@clean simplest4.html</vh>
+<v t="leo.20151108133340.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108133340.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108133340.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108133340.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108133340.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108133340.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108133340.8"><vh>心得與自評</vh></v>
 </v>
 </v>
-<v t="leo.20151025123447.9"><vh>script</vh></v>
+<v t="leo.20151108133340.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108133346.1"><vh>@clean simplest5.html</vh>
+<v t="leo.20151108133346.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108133346.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108133346.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108133346.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108133346.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108133346.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108133346.8"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151108133346.9"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151108133353.1"><vh>@clean simplest8.html</vh>
+<v t="leo.20151108133353.2"><vh>檔案說明</vh></v>
+<v t="leo.20151108133353.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151108133353.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151108133353.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151108133353.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151108133353.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151108133353.8"><vh>1~2心得</vh></v>
+<v t="leo.20151108133353.9"><vh>3~4心得</vh></v>
+<v t="leo.20151108133353.10"><vh>5~6心得</vh></v>
+<v t="leo.20151108133353.11"><vh>8期中報告</vh></v>
+</v>
+</v>
+<v t="leo.20151108133353.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1642,69 +1660,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;h1&gt;嵌入 Vimeo 影片&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="amd.20150915211341.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="amd.20150915211351.1">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-&lt;head&gt;
-&lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
-&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
-	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
-	&lt;!--增加對於 IE 早期版本的支援 --&gt;
-	&lt;!--[if lt IE 9]&gt;
-	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-	&lt;![endif]--&gt;
-&lt;/head&gt;
-@others
-</t>
-<t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;分數  : 60 分&lt;/p&gt;
-
-&lt;/section&gt;</t>
-<t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="amd.20150915211351.4">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150915211351.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
-&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-</t>
-<t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h2&gt;作業一&lt;/h2&gt;
-    &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="amd.20150917085040.1">&lt;!--
-這個檔案展示了 reveal.js 投影片資料的基本架構
-其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
-而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
-且支援平行與垂直的投影片配置方法
---&gt;
-</t>
 <t tx="amd.20150919102739.1">主要為 reveal.js 的簡報目錄架構, 其他子目錄為
 
 images - 存放簡報與 pelican 網誌所需要的影像檔案
@@ -1830,19 +1785,28 @@ jupyter notebook
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151019154425.1">@language xml
+<t tx="leo.20151108133333.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151019154425.2">&lt;!--
+<t tx="leo.20151108133333.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108133333.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151019154425.3">&lt;!doctype html&gt;
+<t tx="leo.20151108133333.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1856,65 +1820,55 @@ jupyter notebook
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151019154425.4">&lt;body&gt;
+<t tx="leo.20151108133333.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151019154425.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151108133333.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151019154425.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151108133333.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151019154425.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151108133333.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業二&lt;/h1&gt;
+    &lt;h2&gt;作業一(第1~2週)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151019154425.8">&lt;section&gt;
-    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;老師教的繪圖軟體不錯用 很好上手又開得很快 功能也很齊全 算是很好的繪圖軟體 &lt;/p&gt;
-    &lt;p&gt;分數  : 80 分&lt;/p&gt;
-
-&lt;/section&gt;
-		</t>
-<t tx="leo.20151019154425.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
-&lt;script&gt;
-    // 啟動 Reveal.
-    Reveal.initialize({
-    });
-&lt;/script&gt;
-	
-</t>
-<t tx="leo.20151019154505.1">
+<t tx="leo.20151108133333.8">
 &lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;這學期一開始有點混亂,不太能理解老師要什麼,希望可以講慢一點,然後說一下到底要什麼&lt;/p&gt;		
+    &lt;p&gt;這學期一開始有點混亂,不太能理解老師要什麼,希望可以講慢一點,然後說一下到底要什麼 &lt;/p&gt;	
+    &lt;p&gt;PS: 可能是我上課晃神 還沒回來&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151025123447.1">@language xml
+<t tx="leo.20151108133333.9">&lt;section&gt;
+    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
+    &lt;p&gt;分數  : 60 分&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20151108133340.1">@language xml
 @tabwidth -4
 @others
 
 </t>
-<t tx="leo.20151025123447.2">&lt;!--
+<t tx="leo.20151108133340.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
 而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
 且支援平行與垂直的投影片配置方法
 --&gt;
 </t>
-<t tx="leo.20151025123447.3">&lt;!doctype html&gt;
+<t tx="leo.20151108133340.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -1928,37 +1882,37 @@ jupyter notebook
 &lt;/head&gt;
 @others
 </t>
-<t tx="leo.20151025123447.4">&lt;body&gt;
+<t tx="leo.20151108133340.4">&lt;body&gt;
 @others
 &lt;/body&gt;
 </t>
-<t tx="leo.20151025123447.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+<t tx="leo.20151108133340.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
 &lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151025123447.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+<t tx="leo.20151108133340.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="leo.20151025123447.7">&lt;!-- 以下為投影片 --&gt;
+<t tx="leo.20151108133340.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;作業三&lt;/h1&gt;
+    &lt;h2&gt;作業二(第3~4週)&lt;/h2&gt;
     &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151025123447.8">&lt;section&gt;
+<t tx="leo.20151108133340.8">&lt;section&gt;
     &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;這個軟體比之前教得更不習慣 影片重新拍了不少次(因為失誤) 我認為對一個習慣AUTOCAD的人來用這個軟體會很不習慣 &lt;/p&gt;
-    &lt;p&gt;分數  : 80 分&lt;/p&gt;
+    &lt;p&gt;solvespace不錯用 很好上手又開得很快 功能也算還不錯 算是很方便的繪圖軟體 雖然有些步驟很麻煩 但是是在攜帶方面卻好非常多 比起需要光碟片安裝 有授權的軟體 我認為可隨時使用的更方便 &lt;/p&gt;
+    &lt;p&gt;分數  : 75 分&lt;/p&gt;
 
 &lt;/section&gt;
 		</t>
-<t tx="leo.20151025123447.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+<t tx="leo.20151108133340.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
     // 啟動 Reveal.
@@ -1967,5 +1921,157 @@ jupyter notebook
 &lt;/script&gt;
 	
 </t>
+<t tx="leo.20151108133346.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151108133346.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108133346.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108133346.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108133346.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108133346.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108133346.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;作業三(第5~6週)&lt;/h2&gt;
+    &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108133346.8">&lt;section&gt;
+    &lt;h2&gt;心得與自評分數&lt;/h2&gt;
+    &lt;p&gt;這個軟體比之前教得更不習慣 影片重新拍了不少次(因為失誤) 我認為對一個習慣AUTOCAD的人來用這個軟體會很不習慣 雖然不習慣 不過還是要熟悉 &lt;/p&gt;
+    &lt;p&gt;分數  : 75 分&lt;/p&gt;
+
+&lt;/section&gt;
+		</t>
+<t tx="leo.20151108133346.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108133353.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151108133353.10">&lt;section&gt;
+    &lt;h2&gt;同整下來的第五週&lt;/h2&gt;
+    &lt;p&gt;第五周開始東西變得比較多一點 因為cero實在是有點難操控 光是拍組合圖 我就裝了10分鐘 還有腳踏車的圖形實在不是很好畫&lt;/p&gt;
+    &lt;p&gt;開始要進入班級倉儲 其實我心裡很清楚一定會損毀很多次 所以我打算較晚加入並且有同學發現leo萬國碼的問題 修正了一下leo&lt;/p&gt;
+
+&lt;/section&gt;
+		</t>
+<t tx="leo.20151108133353.11">&lt;section&gt;
+    &lt;h2&gt;第八週 期中報告&lt;/h2&gt;
+    &lt;p&gt;期中報告需要把前面的影片補齊並在班級倉儲裡展現出來 我相信可能會損毀數次 所以在推之前先備份 如果壞了還有機會可以補救 在pull前也先備份 預防拉下來的檔案是壞的&lt;/p&gt;
+    &lt;p&gt;腳踏車感覺又拖很久了 其實尺寸量好 要畫出來也是個問題 畫出來要組起來問題就更大了&lt;/p&gt;
+    &lt;p&gt;期中分數我給自己80分 我認為我有做到基本要求並且我很清楚我自己在做什麼&lt;/p&gt;
+
+&lt;/section&gt;
+		</t>
+<t tx="leo.20151108133353.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151108133353.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151108133353.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151108133353.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151108133353.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108133353.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151108133353.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;期中報告&lt;/h2&gt;
+    &lt;p&gt;呂紹新 40323216&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151108133353.8">&lt;section&gt;
+    &lt;h2&gt;同整下來的第一週&lt;/h2&gt;
+    &lt;p&gt;其實剛開始視聽的一頭霧水 過了兩週後才進入狀況 其實就是把老師的檔案修改成自己的 並且要聊解每個reveal裡面的檔案都有自己對應的路徑 要是路上沒有搜尋到 他就不換顯示出東西   &lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+
+&lt;/section&gt;
+		</t>
+<t tx="leo.20151108133353.9">&lt;section&gt;
+    &lt;h2&gt;同整下來的第三週&lt;/h2&gt;
+    &lt;p&gt;三到四周都在畫solvespace 第一次畫時覺得挺好玩的 很方便 也很上手(不像creo)只是畫到後來發現他有些步驟很麻煩 畢竟檔案很小 只能按部就班來 不過在攜帶與開啟上贏了所有大公司的繪圖軟體 只差不知道檔案可不可以跨軟體開&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+
+&lt;/section&gt;
+		</t>
 </tnodes>
 </leo_file>
